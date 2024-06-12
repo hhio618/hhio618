@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Educational background
+**Master of Science in Computer Science (AI engineering)**   
+Bachelor in software engineering
+
 ### Current passion
 🔭I am currently working on merging my AI knowledge and blockchain experience to create something beneficial for the future of humanity. I am hacking at Dorahacks hackathons and would be delighted to have you as a teammate!
 
@@ -26,13 +30,10 @@ GitPOAP: 2022 Next.id contributer | GitPOAP: 2021 Gitcoin.co web contributer | G
 Repo | Info | Platform
 --- | --- | ---
 https://github.com/hhio618/golem-ci | Mentioned here in this golem network blog post [https://blog.golem.network/project-of-the-month-golem-ci/](https://blog.golem.network/project-of-the-month-golem-ci/) | **Python**
-https://github.com/functionland/wnfs-android | https://github.com/wnfs-wg/rs-wnfs library interface for android devices (Original contributer) | **Rust+Kotlin**
-https://github.com/functionland/wnfs-ios | https://github.com/wnfs-wg/rs-wnfs library interface for apple devices (Original contributer) | **Rust+Swift**
-https://github.com/hhio618/bluzelle-py | A python client for the Bluezelle network | **Python**
-https://github.com/hCaptcha/telegram-bot | One of the main contributer of the humanCaptcha telegram bot (RIP) | **Python**
+https://github.com/functionland/wnfs-android | https://github.com/wnfs-wg/rs-wnfs library interface for android devices (Original contributor) | **Rust+Kotlin**
+https://github.com/functionland/wnfs-ios | https://github.com/wnfs-wg/rs-wnfs library interface for Apple devices (Original contributor) | **Rust+Swift**
+https://github.com/hhio618/bluzelle-py | A Python client for the Bluezelle network | **Python**
+https://github.com/hCaptcha/telegram-bot | One of the main contributor of the humanCaptcha telegram bot (RIP) | **Python**
 https://github.com/diadata-org/diadata/pulls?q=is%3Apr+author%3Ahhio618+is%3Aclosed+ | diadata-org contributions (as a bounty hunter) | **Golang**
 https://github.com/functionland/go-fula/pulls?q=is%3Apr+author%3Ahhio618+is%3Aclosed+ | Go-fula project contributions | **Golang**
 
-### Eductional background
-Master of science in computer science (AI engineering)
-Bachelor in software engineering
