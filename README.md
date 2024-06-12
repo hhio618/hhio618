@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **hhio618/hhio618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Educational background
+## Educational background
 **Master of Science in Computer Science (AI engineering)**   
 Bachelor in software engineering
 
-### Current passion
+## Current passion
 🔭I am currently working on merging my AI knowledge and blockchain experience to create something beneficial for the future of humanity. I am hacking at Dorahacks hackathons and would be delighted to have you as a teammate!
 
-### NFT awards
+## NFT awards
 GitPOAP: 2022 Next.id contributer | GitPOAP: 2021 Gitcoin.co web contributer | GitPOAP: 2020 Gitcoin.co web contributer
 --- | --- | ---
 [![GitPOAP: 2022 Next.id contributer](https://storage.googleapis.com/nftimagebucket/gnosisscan/tokens/0x22c1f6050e56d2876009903609a2cc3fef83b415/preview/5953505.png)](https://gnosisscan.io/nft/0x22c1f6050e56d2876009903609a2cc3fef83b415/5953505) | [![GitPOAP: 2021 Gitcoin.co web contributer](https://storage.googleapis.com/nftimagebucket/gnosisscan/tokens/0x22c1f6050e56d2876009903609a2cc3fef83b415/preview/5953506.png)](https://gnosisscan.io/nft/0x22c1f6050e56d2876009903609a2cc3fef83b415/5953506) | [![GitPOAP: 2020 Gitcoin.co web contributer](https://storage.googleapis.com/nftimagebucket/gnosisscan/tokens/0x22c1f6050e56d2876009903609a2cc3fef83b415/preview/5953507.png)](https://gnosisscan.io/nft/0x22c1f6050e56d2876009903609a2cc3fef83b415/5953507)
 
-### Mentionable projects
+## Mentionable projects
 Repo | Info | Platform
 --- | --- | ---
 https://github.com/hhio618/golem-ci | Mentioned here in this golem network blog post [https://blog.golem.network/project-of-the-month-golem-ci/](https://blog.golem.network/project-of-the-month-golem-ci/) | **Python**
